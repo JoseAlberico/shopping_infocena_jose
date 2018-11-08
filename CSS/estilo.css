@@ -1,0 +1,46 @@
+h1{ 
+    text-align: center; 
+    margin-top: 30px; 
+    margin-bottom: 20px;
+}
+p{ 
+    margin: 10px;
+}
+/*
+div{
+    width: 100%;
+    margin: 15px;
+    
+}
+*/
+.lojaespecial{ color: red;}
+.produtos{ color:green}
+a{
+    text-decoration: none;
+}
+a:link{
+    color: blue;
+}
+a:visited{
+    color:blue;
+}
+a:hover{ 
+color: green;
+    text-transform:uppercase;
+}
+a:active{
+    color: red;
+}
+img{
+    height: 85px;
+    width: 85px;
+}
+body{
+   background: url(Imagens/Senac.png);
+}
+.btn-primary{
+    background-color:#fa8072 !important;
+}
+.btn-secondary{
+    background-color:#ffa500 !important;
+}
